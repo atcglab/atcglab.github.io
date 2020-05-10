@@ -20,9 +20,9 @@ title: "Coding Club"
 logo: "/assets/img/logos/logo_hex.svg"
 description: ""
 baseurl: ""
-url: "https://ourcodingclub.github.io"
-repo: "https://github.com/ourcodingclub/ourcodingclub.github.io"
-email: "ourcodingclub@gmail.com"
+url: "https://faruqclinicalgenomics.github.io"
+repo: "https://github.faruqclinicalgenomics/faruqclinicalgenomics.github.io"
+email: "faruqclingen@gmail.com"
 google_analytics: UA-92956541-1
 css_inline: false 
 markdown: kramdown
