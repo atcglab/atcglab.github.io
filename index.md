@@ -1,49 +1,49 @@
 ---
 layout: page
-title: "Coding Club: A Positive Peer-Learning Community"
+title: "Ataxia and Clinical Genomics (ATCG) Lab"
 banner: "../assets/img/banner/slider-bg-pale.jpg"
 ---
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@our_codingclub" />
-<meta name="twitter:creator" content="@our_codingclub" />
-<meta property="og:url" content="https://ourcodingclub.github.io" />
-<meta property="og:title" content="Coding Club: a positive peer-learning community" />
-<meta property="og:description" content="Free and accessible tutorials on data analysis, manipulation, visualisation and more." />
-<meta property="og:image" content="https://ourcodingclub.github.io/assets/img/logos/logo_hex_cc.png" />
+<meta name="twitter:site" content="@ATCG_Official" />
+<meta name="twitter:creator" content="@ATCG_Official" />
+<meta property="og:url" content="https://atcglab.github.io" />
+<meta property="og:title" content="Ataxia and Clinical Genomics Lab" />
+<meta property="og:description" content="Official lab website, live updates on current interests" />
+<meta property="og:image" content="../assets/img/logo_covid.png"/>
 
 <div class="content-new-info">
 <br>
-    <a href="https://ourcodingclub.github.io/course.html" target="_blank"><img src="{{ site.baseurl }}/assets/img/logos/Logo_Data_Science_smallest.png" alt="Course logo"></a>
+    <a href="https://atcglab.github.io/COVID-19.html" target="_blank"><img src="{{ site.baseurl }}/assets/img/logo_covid.png" alt="Course logo"></a>
     <div class="count">
 <ul class="count-list">
 	<li>
 		<div>
-            <i class="fas fa-edit"></i>
-			<span class="counter">42</span>
-			<span class="counter-desc">Tutorials</span>
+            <i class="fas fa-line-chart"></i>
+			<span class="counter">104</span>
+			<span class="counter-desc">IGIB-NCDC</span>
 		</div>
     </li>
     <li>
 		<div>
-            <i class="fas fa-mouse-pointer"></i>
-			<span class="counter">603569</span>
-			<span class="counter-desc">Pageviews</span>
+            <i class="fas fa-flag"></i>
+			<span class="counter">238</span>
+			<span class="counter-desc">India</span>
 		</div>
     </li>
     <li>
 		<div>
-            <i class="fas fa-history"></i>
-			<span class="counter">127645</span>
-			<span class="counter-desc">Hours of coding</span>
+            <i class="fas fa-globe"></i>
+			<span class="counter">25138</span>
+			<span class="counter-desc">World</span>
 		</div>
 	</li>
   </ul>
 </div>
-<big>We have launched our new online course <a href="https://ourcodingclub.github.io/course">Data Science for Ecologists and Environmental Scientists</a>! Join in for a free and self-paced journey through a tailored selection of Coding Club tutorials, quizzes and practical challenges and the chance to get a certificate for your work.</big>
+<big>The COVID-19 initiative from <a href="https://igib.res.in">CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB)</a> in collaboration with <a href="https://ncdc.gov.in/">National Centre for Disease Control (NCDC)</a> has been serving for national interest during this pandemic by sequencing and understanding the biology of COVID genome. Through this program, CSIR-IGIB is joining hands for the sequencing of SARS-CoV-19 genome all over India. Live updates on the COVID-19 research in India and lab's interests will be updated <a href="https://atcglab.github.io/COVID-19.html">here</a>.</big>
 </div>
 <section id="index-work" style="padding-bottom:20px">
 <div class="container">
-        <center><a class="button-newest" href="{{ site.baseurl }}/tutorials">Explore our tutorials</a>         <a class="button-new" href="{{ site.baseurl }}/course">Take the course</a>         <a class="button" href="{{ site.baseurl }}/involve">Contribute and get involved</a></center>
+        <center><a class="button-newest" href="{{ site.baseurl }}/tutorials">Explore the data</a>         <a class="button-new" href="{{ site.baseurl }}/course">Needs to be changed</a>         <a class="button" href="{{ site.baseurl }}/involve">Needs to be changed</a></center>
   </div>
 </section>
 
@@ -51,18 +51,13 @@ banner: "../assets/img/banner/slider-bg-pale.jpg"
 <div class="content-new-streams">
     <img src="{{ site.baseurl }}/assets/img/index/about_us.png" style= "width:25%; height:auto; padding:20px;20px;20px;80px;" alt="About us"><h2>About us</h2>
 
-<p>We are an enthusiastic group of ecology and environmental science students and researchers from the University of Edinburgh. We want to replace statistics anxiety and code fear with inspiration and motivation to learn. We believe that coding can be really fun and also understand the importance of quantitative skills for professional development.</p>
+<p>Welcome!</p>
 
-<p>Over the last four years we have been writing <a href="https://ourcodingclub.github.io/tutorials/" target="_blank">tutorials</a> as well as organising in-person workshops. All of our materials are free for people to use and adapt - you can find more information on organising your own workshops or using Coding Club tutorials in your teaching <a href="https://ourcodingclub.github.io/involve.html" target="_blank">here</a>.</p>
-
-<p>Coding Club is for everyone, regardless of their career stage or current level of knowledge. Coding Club is a place that brings people together, regardless of their gender or background. We all have the right to learn, and we believe learning is more fun and efficient when we help each other along the way.</p>
+<p>We are situated in the heart of one of the most premier government institutes by the Council of Scientific and Industrial Research (CSIR), Institute of Genomics and Integrative Biology (IGIB). Our Functional Genomics Laboratory works closely towards bridging the gap between the fundamentals of Genomics and its translational approaches to better comprehend the dictated mechanisms leading to human diseases specifically, neurodegenerative ailments for their prognosis and prevention. Time and again, we have been a part of government initiatives and projects to understand diseases at an individual and population level better, like the Indian Genome Variation Project (IGV), under which 1800 individuals from 55 ethnic groups were studied at the Single Nucleotide Polymorphism (SNP) level and the project was completed within two years of its announcement. Soon after, in 2015 we became an integral part of another project, ‘The Genomics for Understanding Rare Diseases: India Alliance Network (GUaRDIAN)’ inspired by the dire need of studying curable and incurable diseases in such a varied population which brought together eminent Scientists, Clinicians and researchers from all over the country towards understanding genetic variations in a population and applying that knowledge in related technologies. Subsequently, as a part of GUaRDIAN, we became the chief laboratory to provide free equitable access to genetic testing for frequent genetic diseases to underprivileged patients countrywide through Government-funded program, the ‘Genomics and other Omics technologies for Enabling Medical Decision (GOMED)’ comprising of genetic investigation of greater than 60 conditions from Spinocerebellar Ataxia to Molecular Dystrophy where we have genetically addressed about 10,000 patient samples till now. Apart from this, ever since its inception, our laboratory has been committed to research in genetically and clinically heterogeneous group of rare neurodegenerative disorders, Spinocerebellar Ataxias (SCAs) as a large variety of genetic mutations are associated with them comprising of dynamic Tandem Nucleotide Repeat (TNR) expansion, Point mutation, Insertion and Deletion. With varying genetic profiles, specific experimentations and validations are carried out, for instance, Autosomal Dominant SCAs (ADCAs), caused more often by repeat expansions are validated by Fluorescent labelled primer-based PCR reaction or Triplet Primed (TP) PCR followed by Fragment Analysis method, whereas, Autosomal Recessive SCAs (ARCAs) caused due to repeat expansion (FRDA) or point mutation are confirmed using TP-PCR followed by Fragment Analysis or Sanger Sequencing method. We also refer to Next-Generation Sequencing (NGS) technologies, especially Exome sequencing to usually solve genetically negative samples. The other major part of our research also focuses on genotype to phenotype correlation, where we study the pathogenesis of various neurodegenerative disorders like Spinocerebellar Ataxias (SCAs), FRDA along with finding their therapeutic targets. Since, it is quite challenging to get post-mortem autopsy tissues of the brain of the patient suffering from neurological disorders in India, we therefore, generate Lymphoblastoid Cell Lines (LCLs) from Peripheral Blood Mononuclear Cells (PBMCs) of patients in our lab. Subsequently, to study the specific brain pathologies in these diseases, we also develop Induced Pluripotent Stem Cells (iPSCs) from LCLs and further differentiate these iPSCs to Neurons, to recapitulate the environment existing in the patient nerve cells. Thus, as an ideal model, it helps us in studying specific molecular perturbations at large. Currently, we have more than 40 cellular models of different patients and our future goal is to include even more diseases in our stem cell repository to elucidate their pathogenesis for therapeutic interventions as our ultimate vision is healthcare.</p>
 </div>
 </section>
 
-{% capture link %}
-https://twitter.com/our_codingclub
-{% endcapture %}
-{% include link-button.html url=link button="Follow us on Twitter and find out about our latest tutorials!" %}
+{% include link-button.html url="https://twitter.com/ATCG_Official" button="Follow us on Twitter and find out about our latest updates!" %}
 
 <div class="owl-carousel-wrapper">
 	<div class="owl-carousel">
@@ -122,73 +117,7 @@ https://twitter.com/our_codingclub
 </div>
 </section>
 
-<div class="owl-carousel-wrapper">
-	<div class="owl-carousel">
-		<div class="owl-carousel-quote">
-			<p>"Having people believe in me motivated me to keep developing my skills in programming and statistics, despite all the error messages. Now it's my turn to do the believing - I believe in Coding Club and all its members, and I know that together we can learn to code and use the right type of statistics!"</p>
-			<img src="{{ site.baseurl }}/assets/img/quotes/gergana.jpg" alt="Gergana">
-			<p>Gergana Daskalova</p>
-			<p>Coding Club leader</p>
-		</div>
-				<div class="owl-carousel-quote">
-			<p>“Coding Club opened up a new exciting world of Data Science to me. Without the tutorials it would have never been that friendly or positive entrance into the world of coding that helped me to get this far. I am looking forward to all the opportunities and discoveries that can come from the skills I learnt.”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Dani Gargya, 4th year student</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>“Coding Club has completely shaped my academic and personal life. Before Coding Club, I never thought it would be possible for me to learn any technical computing skills, let alone enjoy it. From the welcoming environment, the clear instructions and applications, I was able to learn quickly and enjoy it! Becoming a tutor further solidified my newfound knowledge and brought me joy - it is great to see how quickly Coding Club can turn people from being completely uncomfortable by coding to confident.”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Izzy Rich, Coding Club first student then tutor</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>“I don't think I realised just how much Coding Club played an integral role in shaping my academic life until I graduated. Coding Club offers a unique learning environment in a transdisciplinary and non-hierarchical setting. This allowed me to develop skills which I have put to a surprising amount of good use, first in my job, and now in my postgraduate degree.”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Claudia Meca van den Berg, Coding Club first student then tutor</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>“Coding Club has given the quantitative and technical skills to pursue challenges that I always thought were beyond my scope of abilities and inspired me to continue to learn and share.”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Shawn Schneidereit, Coding Club first student then tutor</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>"The tutors are keen and engaging; their enthusiasm rubs off on all of us. The step-by-step tutorials are useful for going back over things once the session is over. The peer-led nature of the classes is a forgiving, non-threatening atmosphere to ask questions and make mistakes."</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/joe.jpg" alt="Joe">
-			<p>Joe Boyle</p>
-			<p>Honours Student</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>"Getting quite into R now... started to see how it's satisfying when you crack the code!"</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/el.jpg" alt="El">
-			<p>Eleanor Walker</p>
-			<p>Honours Student</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>"Having people who’ve relatively recently learnt to code as tutors is great because they are good at explaining things from an approachable perspective."</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Honours Student</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>“Thousands of thanks for your invaluable help; you have opened new horizons for me!”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Workshop participant</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>“My special gratitude to Coding Club for creating a space to learn and discuss R and for their positivity and support along the way.”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Honours student</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>“I am thankful for everyone in Coding Club for helping me with troubleshooting and making mixed effect models less daunting.”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Honours student</p>
-		</div>
-		<div class="owl-carousel-quote">
-			<p>“Coding Club is expanding minds! I'm looking forward to going through all the tutorials!”</p> 
-			<img src="{{ site.baseurl }}/assets/img/quotes/quote.svg" alt="quote">
-			<p>Workshop participant</p>
-		</div>
-	</div>
-</div>
+
 
 <a name = "coursebrief"></a>
 <section id="portfolio-work" style="background-color: #a6d4dc; padding-bottom:20px">

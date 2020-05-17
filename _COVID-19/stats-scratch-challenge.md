@@ -1,5 +1,5 @@
 ---
-layout: course
+layout: COVID-19
 title: "Stats from Scratch challenge: Where are the red squirrels?"
 banner: "../assets/img/banner/stats-scratch.jpg"
 ---

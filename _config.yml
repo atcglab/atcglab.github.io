@@ -16,16 +16,18 @@ plugins:
 # Site settings
 encoding: utf-8
 lang: en-GB
-title: "Coding Club"
-logo: "/assets/img/logos/logo_hex.svg"
+title: "ACTG Lab"
+logo: "/assets/img/logo.png"
 description: ""
 baseurl: ""
-url: "https://faruqclinicalgenomics.github.io"
-repo: "https://github.faruqclinicalgenomics/faruqclinicalgenomics.github.io"
-email: "faruqclingen@gmail.com"
+url: "https://atcglab.github.io"
+repo: "https://github.atcglab/atcglab.github.io"
+email: "faruqslab@gmail.com"
+twitter_username: ATCG_Official
 google_analytics: UA-92956541-1
 css_inline: false 
 markdown: kramdown
+auto_ids: false
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
@@ -46,10 +48,10 @@ favicons:
 navigation_header:
 - title: Home
   url: /
-- title: Tutorials
-  url: /tutorials.html
-- title: Course
-  url: /course.html
+- title: Blog
+  url: /Blog.html
+- title: COVID-19
+  url: /COVID-19.html
 - title: Team
   url: /team.html
 - title: Get involved
@@ -61,12 +63,12 @@ navigation_header:
 
 # Define collections
 collections:
-    tutorials:
+    Blog:
         output: true
-        permalink: /tutorials/:path/
-    course:
+        permalink: /BLog/:path/
+    COVID-19:
         output: true
-        permalink: /course/:path/
+        permalink: /COVID-19/:path/
     DL:
         output: true
         permalink: /DL/:path/

@@ -1,5 +1,5 @@
 ---
-layout: course
+layout: COVID-19
 title: "Wiz of Data Vis challenge: Native woodlands"
 banner: "../assets/img/banner/wiz-viz.jpg"
 ---

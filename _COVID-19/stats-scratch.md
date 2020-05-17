@@ -1,39 +1,41 @@
 ---
-layout: course
-title: "Wiz of Data Vis"
-subtitle: "A (good) graph is worth a thousand words!"
-banner: "../assets/img/banner/wiz-viz.jpg"
+layout: COVID-19
+title: "Stats from Scratch"
+subtitle: "An introduction to data manipulation and analysis in R"
+banner: "../assets/img/banner/stats-scratch.jpg"
 ---
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@our_codingclub" />
 <meta name="twitter:creator" content="@our_codingclub" />
-<meta property="og:url" content="https://ourcodingclub.github.io/course/wiz-viz/index.html" />
-<meta property="og:title" content="Wiz of Data Vis: Data Science for Ecologists and Environmental Scientists" />
-<meta property="og:description" content="Make graphs that tell a compelling story and learn different ways of communicating key messages with data." />
-<meta property="og:image" content="https://ourcodingclub.github.io/assets/img/dl_course/DL_stream2.png" />
+<meta property="og:url" content="https://ourcodingclub.github.io/course/stats-scratch/index.html" />
+<meta property="og:title" content="Stats from Scratch: Data Science for Ecologists and Environmental Scientists" />
+<meta property="og:description" content="Take the initial plunge and learn R, this stream is for anyone looking to learn data manipulation and statistical analysis." />
+<meta property="og:image" content="https://ourcodingclub.github.io/assets/img/dl_course/DL_stream1.png" />
 
-This stream is aimed at scientists who are looking to improve and expand their data visualisation skills. This is ideal for students or researchers wanting to produce high-impact figures, people working with geospatial data, or with an interest in science communication. For this stream, we will assume you have some basic R experience and know how to import files and manipulate data to some degree. (You don't? Try our [Stats from Scratch]({{ site.baseurl }}/dl_course/stats-scratch/index.html) course stream instead, or just visit some of its tutorials for a refresher.)
+# Stream overview
 
-We will first teach you to format your datasets in the most efficient way for plotting and the basics of the `ggplot2` package. Then, we'll move way beyond basic and learn to customise all the elements of a graph, create our own palettes and themes, and use panels to declutter graphs. We will use different types of data, from model predictions to geographical data, and work towards presenting them in an engaging and informative way. Finally, we'll explore the Markdown language for professional and reproducible reporting of codes and results, and have fun with interactive web apps!
+__This stream is aimed at people who are looking to learn the R language for data manipulation and statistical analysis.__ No programming experience required, so it is ideal for students, postgraduate researchers, and anyone who has been using commercial software for data analysis and wishes they could have more flexibility in their analyses!
+
+We will teach you the basic syntax of the R language, and right away you'll be using it to import, manipulate and plot data. You will get into the good habit of using scripts to write clear and reproducible code, and learn the most efficient tricks to prepare and tidy data for analysis in R. We will use a variety of ecological data to practice making graphs and running linear models. Soon you will have all the skills you need to analyse your own data and present the results in a professional way!
 
 {% capture banner %}
 # As part of this course stream, we suggest you do the following tutorials:
 
-* [Efficient data manipulation: Streamline your code]({{ site.baseurl }}/tutorials/data-manip-efficient/index.html)
+* [Introduction to R and RStudio]({{ site.baseurl }}/tutorials/intro-to-r/index.html)
+* [Troubleshooting and finding help]({{ site.baseurl }}/tutorials/troubleshooting/index.html)
+* [Coding etiquette]({{ site.baseurl }}/tutorials/etiquette/index.html)
+* [Data manipulation I: introduction to tidy data]({{ site.baseurl }}/tutorials/data-manip-intro/index.html)
+* [Linear modelling]({{ site.baseurl }}/tutorials/modelling/index.html)
 * [Data visualisation I: beautiful and informative graphs]({{ site.baseurl }}/tutorials/datavis/index.html)
-* [Data visualisation II: customising graphs]({{ site.baseurl }}/tutorials/data-vis-2/index.html) 
-* [Spatial analysis in R]({{ site.baseurl }}/tutorials/spatial/index.html) 
-* [Professional reporting with Markdown]({{ site.baseurl }}/tutorials/rmarkdown/index.html) 
-* [Intro to Shiny: interactive web apps]({{ site.baseurl }}/tutorials/shiny/index.html) 
 {% endcapture %}
-{% capture url %}{{ site.baseurl }}/assets/img/banner/path.jpg{% endcapture %}
+{% capture url %}{{ site.baseurl }}/assets/img/banner/hills.jpg{% endcapture %}
 {% include scroll-banner.html content=banner background=url %}
 
 # Getting started
 
 We hope you enjoy doing the course! There is no time limit for completion, so you can take it at your own pace. Each tutorial listed above might take you between one and three hours to complete, and your completion will be recorded once you take the quiz at the end. You can track your progression and access the course quizzes in our test centre.
 
-#### You can download all the materials for this stream from our [GitHub repository](https://github.com/ourcodingclub/CC_course_stream2).
+#### You can download all the materials for this stream from our [GitHub repository](https://github.com/ourcodingclub/CC_course_stream1).
 
 #### If you are not yet registered for the course, you will have to [sign up first](https://coding-club.shinyapps.io/course-registration/).
 
@@ -43,7 +45,7 @@ We hope you enjoy doing the course! There is no time limit for completion, so yo
 
 <center><img src="{{ site.baseurl }}/assets/img/dl_course/DL_workflow.png" style= "width:50%; height:auto;" alt="workflow-diagram"></center>
 
-{% capture link %}{{ site.baseurl }}/course/wiz-viz-challenge/index.html{% endcapture %}
+{% capture link %}{{ site.baseurl }}/course/stats-scratch-challenge/index.html{% endcapture %}
 {% capture banner %}
 # Challenge yourself
 
@@ -53,15 +55,16 @@ Our case-study challenges are designed to test the range of skills you gained th
 
 {% include link-button.html url=link button="Try me!" %}
 {% endcapture %}
-{% capture url %}{{ site.baseurl }}/assets/img/banner/woods.jpg{% endcapture %}
+{% capture url %}{{ site.baseurl }}/assets/img/banner/squirrel_2.jpg{% endcapture %}
 {% include scroll-banner.html content=banner background=url %}
+
 
 # All done?
 
 If you have finished the stream and would like to request a certificate, you can do so in a few clicks. Note that this will not exclude you from the course, so if you decide to come back for more our doors are still open! 
 
 <form class="form-group" action="https://coding-club.shinyapps.io/certificate/" method="get"> 
-   <button type="submit" style="background-color:#b5daa7"> Request your certificate
+   <button type="submit" style="background-color:#dcbc6c"> Request your certificate
             </button>
 </form>
 

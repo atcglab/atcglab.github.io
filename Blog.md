@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Tutorials"
+title: "Blog"
 banner: "../assets/img/banner/slider-bg-pale.jpg"
 redirect_from:
-  - /tutorials/
+  - /Blog/
 ---
 
 <div class="content-new-info">

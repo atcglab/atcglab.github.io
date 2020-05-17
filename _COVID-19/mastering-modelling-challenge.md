@@ -1,5 +1,5 @@
 ---
-layout: course
+layout: COVID-19
 title: "Mastering Modelling challenge: Seabird population dynamics" 
 banner: "../assets/img/banner/mastering-modelling.jpg"
 ---

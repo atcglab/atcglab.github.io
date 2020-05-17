@@ -36,9 +36,3 @@ We are very keen to discuss ways to innovate teaching in quantitative analysis a
 </div>
 
 
-## Come to our workshops
-
-Crew Building, King's Buildings Campus, University of Edinburgh
-
-Email: ourcodingclub@gmail.com
-
