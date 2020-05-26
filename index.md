@@ -10,6 +10,7 @@ banner: "../assets/img/banner/slider-bg-pale.jpg"
 <meta property="og:title" content="Ataxia and Clinical Genomics Lab" />
 <meta property="og:description" content="Official lab website, live updates on current interests" />
 <meta property="og:image" content="../assets/img/logo_covid.png"/>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <div class="content-new-info">
 <br>
@@ -26,58 +27,70 @@ banner: "../assets/img/banner/slider-bg-pale.jpg"
     <li>
 		<div>
             <i class="fas fa-flag"></i>
-			<span class="counter">238</span>
+			<span class="counter">376</span>
 			<span class="counter-desc">India</span>
 		</div>
     </li>
     <li>
 		<div>
             <i class="fas fa-globe"></i>
-			<span class="counter">25138</span>
+			<span class="counter">31852</span>
 			<span class="counter-desc">World</span>
 		</div>
 	</li>
   </ul>
 </div>
-<big>The COVID-19 initiative from <a href="https://igib.res.in">CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB)</a> in collaboration with <a href="https://ncdc.gov.in/">National Centre for Disease Control (NCDC)</a> has been serving for national interest during this pandemic by sequencing and understanding the biology of COVID genome. Through this program, CSIR-IGIB is joining hands for the sequencing of SARS-CoV-19 genome all over India. Live updates on the COVID-19 research in India and lab's interests will be updated <a href="https://atcglab.github.io/COVID-19.html">here</a>.</big>
+<big>The COVID-19 initiative from <a href="https://igib.res.in"><b>CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB)</b></a> in collaboration with <a href="https://ncdc.gov.in/"><b>National Centre for Disease Control (NCDC)</b></a> has been serving for national interest during this pandemic by sequencing and understanding the biology of COVID genome. Through this program, CSIR-IGIB is joining hands for the sequencing of SARS-CoV-19 genome all over India. Live updates on the COVID-19 research in India and lab's interests will be updated <a href="https://atcglab.github.io/COVID-19.html">here</a>.</big>
 </div>
 <section id="index-work" style="padding-bottom:20px">
 <div class="container">
-        <center><a class="button-newest" href="{{ site.baseurl }}/tutorials">Explore the data</a>         <a class="button-new" href="{{ site.baseurl }}/course">Needs to be changed</a>         <a class="button" href="{{ site.baseurl }}/involve">Needs to be changed</a></center>
+        <center><a class="button-newest" href="https://nextstrain.org/community/bharathramh/ATCG/ncov" target="_blank">COVID-19 Initiative</a>         <a class="button-new" href="{{ site.baseurl }}/COVID-19">Learn more about this</a>         <a class="button" href="{{ site.baseurl }}/involve">Collaborate with us</a></center>
   </div>
 </section>
 
 <section id="portfolio-work" style="background-color: #c4d7d7; padding-bottom:20px; padding-top:20px">
 <div class="content-new-streams">
-    <img src="{{ site.baseurl }}/assets/img/index/about_us.png" style= "width:25%; height:auto; padding:20px;20px;20px;80px;" alt="About us"><h2>About us</h2>
+    <img src="{{ site.baseurl }}/assets/img/about.jpg" style= "width:25%; height:auto; padding:20px;20px;20px;80px;" alt="About us"><h1>About us</h1>
 
 <p>Welcome!</p>
 
-<p>We are situated in the heart of one of the most premier government institutes by the Council of Scientific and Industrial Research (CSIR), Institute of Genomics and Integrative Biology (IGIB). Our Functional Genomics Laboratory works closely towards bridging the gap between the fundamentals of Genomics and its translational approaches to better comprehend the dictated mechanisms leading to human diseases specifically, neurodegenerative ailments for their prognosis and prevention. Time and again, we have been a part of government initiatives and projects to understand diseases at an individual and population level better, like the Indian Genome Variation Project (IGV), under which 1800 individuals from 55 ethnic groups were studied at the Single Nucleotide Polymorphism (SNP) level and the project was completed within two years of its announcement. Soon after, in 2015 we became an integral part of another project, ‘The Genomics for Understanding Rare Diseases: India Alliance Network (GUaRDIAN)’ inspired by the dire need of studying curable and incurable diseases in such a varied population which brought together eminent Scientists, Clinicians and researchers from all over the country towards understanding genetic variations in a population and applying that knowledge in related technologies. Subsequently, as a part of GUaRDIAN, we became the chief laboratory to provide free equitable access to genetic testing for frequent genetic diseases to underprivileged patients countrywide through Government-funded program, the ‘Genomics and other Omics technologies for Enabling Medical Decision (GOMED)’ comprising of genetic investigation of greater than 60 conditions from Spinocerebellar Ataxia to Molecular Dystrophy where we have genetically addressed about 10,000 patient samples till now. Apart from this, ever since its inception, our laboratory has been committed to research in genetically and clinically heterogeneous group of rare neurodegenerative disorders, Spinocerebellar Ataxias (SCAs) as a large variety of genetic mutations are associated with them comprising of dynamic Tandem Nucleotide Repeat (TNR) expansion, Point mutation, Insertion and Deletion. With varying genetic profiles, specific experimentations and validations are carried out, for instance, Autosomal Dominant SCAs (ADCAs), caused more often by repeat expansions are validated by Fluorescent labelled primer-based PCR reaction or Triplet Primed (TP) PCR followed by Fragment Analysis method, whereas, Autosomal Recessive SCAs (ARCAs) caused due to repeat expansion (FRDA) or point mutation are confirmed using TP-PCR followed by Fragment Analysis or Sanger Sequencing method. We also refer to Next-Generation Sequencing (NGS) technologies, especially Exome sequencing to usually solve genetically negative samples. The other major part of our research also focuses on genotype to phenotype correlation, where we study the pathogenesis of various neurodegenerative disorders like Spinocerebellar Ataxias (SCAs), FRDA along with finding their therapeutic targets. Since, it is quite challenging to get post-mortem autopsy tissues of the brain of the patient suffering from neurological disorders in India, we therefore, generate Lymphoblastoid Cell Lines (LCLs) from Peripheral Blood Mononuclear Cells (PBMCs) of patients in our lab. Subsequently, to study the specific brain pathologies in these diseases, we also develop Induced Pluripotent Stem Cells (iPSCs) from LCLs and further differentiate these iPSCs to Neurons, to recapitulate the environment existing in the patient nerve cells. Thus, as an ideal model, it helps us in studying specific molecular perturbations at large. Currently, we have more than 40 cellular models of different patients and our future goal is to include even more diseases in our stem cell repository to elucidate their pathogenesis for therapeutic interventions as our ultimate vision is healthcare.</p>
+<p>We are situated in the heart of one of the most premier government institutes by the Council of Scientific and Industrial Research (CSIR), Institute of Genomics and Integrative Biology (IGIB). Our Functional Genomics Laboratory works closely towards bridging the gap between the fundamentals of Genomics and its translational approaches to better comprehend the dictated mechanisms leading to human diseases specifically, neurodegenerative ailments for their prognosis and prevention. Time and again, we have been a part of government initiatives and projects to understand diseases at an individual and population level better, like the <a href="http://www.igvdb.res.in"><b>Indian Genome Variation Project (IGV)</b></a>, under which 1800 individuals from 55 ethnic groups were studied at the Single Nucleotide Polymorphism (SNP) level and the project was completed within two years of its announcement. Subsequently, we became the chief laboratory to provide free equitable access to genetic testing for frequent genetic diseases to underprivileged patients countrywide through Government-funded program, the <a href="http://gomed.igib.in"><b>Genomics and other Omics technologies for Enabling Medical Decision (GOMED)</b></a> comprising of genetic investigation of greater than 60 conditions from <b>Spinocerebellar Ataxia</b> to Molecular Dystrophy where we have genetically addressed about 10,000 patient samples till now. Apart from this, ever since its inception, our laboratory has been committed to research in genetically and clinically heterogeneous group of rare neurodegenerative disorders, Spinocerebellar Ataxias (SCAs) as a large variety of genetic mutations are associated with them comprising of dynamic Tandem Nucleotide Repeat (TNR) expansion, Point mutation, Insertion and Deletion. With varying genetic profiles, specific experimentations and validations are carried out, for instance, Autosomal Dominant SCAs (ADCAs), caused more often by repeat expansions are validated by Fluorescent labelled primer-based PCR reaction or Triplet Primed (TP) PCR followed by Fragment Analysis method, whereas, Autosomal Recessive SCAs (ARCAs) caused due to repeat expansion (FRDA) or point mutation are confirmed using TP-PCR followed by Fragment Analysis or Sanger Sequencing method. We also refer to Next-Generation Sequencing (NGS) technologies, especially Exome sequencing to usually solve genetically negative samples. The other major part of our research also focuses on genotype to phenotype correlation, where we study the pathogenesis of various neurodegenerative disorders like Spinocerebellar Ataxias (SCAs), FRDA along with finding their therapeutic targets. Since, it is quite challenging to get post-mortem autopsy tissues of the brain of the patient suffering from neurological disorders in India, we therefore, generate Lymphoblastoid Cell Lines (LCLs) from Peripheral Blood Mononuclear Cells (PBMCs) of patients in our lab. Subsequently, to study the specific brain pathologies in these diseases, we also develop Induced Pluripotent Stem Cells (iPSCs) from LCLs and further differentiate these iPSCs to Neurons, to recapitulate the environment existing in the patient nerve cells. Thus, as an ideal model, it helps us in studying specific molecular perturbations at large. Currently, we have more than 40 cellular models of different patients and our future goal is to include even more diseases in our stem cell repository to elucidate their pathogenesis for therapeutic interventions as our ultimate vision is healthcare.</p>
 </div>
 </section>
 
-{% include link-button.html url="https://twitter.com/ATCG_Official" button="Follow us on Twitter and find out about our latest updates!" %}
 
-<div class="owl-carousel-wrapper">
-	<div class="owl-carousel">
-		<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop1.JPG" alt="Workshop photo">
-		</div>
-		<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop2.JPG" alt="Workshop photo">
-		</div>
-		<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop3.JPG" alt="Workshop photo">
-		</div>
-				<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop4.JPG" alt="Workshop photo">
-		</div>
-				<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop5.JPG" alt="Workshop photo">
-		</div>
-	</div>
+{%- capture twitter -%}
+https://twitter.com/{{ author.twitter }}
+{%- endcapture -%}
+
+{% include link-button.html url=twitter button="Follow us on Twitter and find out about our latest updates!" target="_blank" %}
+
+
+<div class="w3-content w3-section">
+	<img class="mySlides" src="{{ site.baseurl }}/assets/img/index/workshop1.JPG" alt="Workshop photo">
+	<img class="mySlides" src="{{ site.baseurl }}/assets/img/index/workshop2.JPG" alt="Workshop photo">
+	<img class="mySlides" src="{{ site.baseurl }}/assets/img/index/workshop4.JPG" alt="Workshop photo">
+	<img class="mySlides" src="{{ site.baseurl }}/assets/img/index/workshop5.JPG" alt="Workshop photo">
 </div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+
 
 <section id="portfolio-work" style="padding-top:10px">
 <div class="content-new-info">
@@ -166,9 +179,9 @@ banner: "../assets/img/banner/slider-bg-pale.jpg"
 </div>
 </section>
 
-{% capture link %}
+{%- capture link -%}
 {{ site.baseurl }}/contact/
-{% endcapture %}
+{%- endcapture -%}
 {% include link-button.html url=link button="Get in touch" %}
 
 <section id="portfolio-work">
